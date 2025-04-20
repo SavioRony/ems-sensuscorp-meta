@@ -1,0 +1,9 @@
+[submodule "microservices/temperature-processing"]
+	path = microservices/temperature-processing
+	url = https://github.com/SavioRony/ems-sensuscorp-temperature-processing.git
+[submodule "microservices/temperature-monitoring"]
+	path = microservices/temperature-monitoring
+	url = https://github.com/SavioRony/ems-sensuscorp-temperature-monitoring.git
+[submodule "microservices/device-manager"]
+	path = microservices/device-manager
+	url = https://github.com/SavioRony/ems-sensuscorp-device-manager.git
